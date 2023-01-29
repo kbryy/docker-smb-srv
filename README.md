@@ -1,7 +1,7 @@
 # 使い方
 
 ```console
-$ git clone https://github.com/Kobari12/docker-smb-srv.git
+$ git clone https://github.com/kbryy/docker-smb-srv.git
 $ cd docker-smb-srv
 $ vi .env
 
